@@ -377,14 +377,13 @@ h1 {
     padding:0;
   }
   
-  a{
-    color:white;
+ a{
+    color: white;
   }
   
-  a:hover {
-    color: yellow;
-    transition: color .2s 0s;
-    }
+  a:hover{
+    color: rgb(245, 245, 76);
+  }
   
   .navbar-nav {
     list-style-type: none;
