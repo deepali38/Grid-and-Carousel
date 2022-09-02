@@ -387,6 +387,7 @@ h1 {
     top:80px; 
     position:absolute;
     display:none;
+    color:white;
   }
   ul li{
     display:block;
