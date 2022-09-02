@@ -6,11 +6,6 @@
   text-decoration: none;
 }
 
-a,
-a:visited {
-  color: black;
-}
-
 a:hover {
   color: green;
   transition: color .2s 0s;
@@ -20,8 +15,6 @@ html,
 body {
   font-family: "Helvetica Neue", "Montserrat", sans-serif;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
   position: relative;
 }
 
