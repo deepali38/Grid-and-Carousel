@@ -381,9 +381,10 @@ h1 {
     color:white;
   }
   
-  a:hover{
-    color:white;
-  }
+  a:hover {
+    color: yellow;
+    transition: color .2s 0s;
+    }
   
   .navbar-nav {
     list-style-type: none;
