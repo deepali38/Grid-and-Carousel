@@ -376,6 +376,15 @@ h1 {
   .navbar{
     padding:0;
   }
+  
+  a{
+    color:white;
+  }
+  
+  a:hover{
+    color:yellow;
+  }
+  
   .navbar-nav {
     list-style-type: none;
     margin-left: 0;
